@@ -1,5 +1,5 @@
 {
-  "name": "docker-angular-tutum",
+  "name": "angular_app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "angular",
     "tutum"
   ],
-  "author": "Denis Ciccale (@tdecs)",
+  "author": "praneeth",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/buggavep/angular_app/issues"
