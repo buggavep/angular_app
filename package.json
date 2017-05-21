@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dciccale/docker-angular-tutum.git"
+    "url": "git@github.com:buggavep/angular_app.git"
   },
   "keywords": [
     "docker",
@@ -18,9 +18,9 @@
   "author": "Denis Ciccale (@tdecs)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dciccale/docker-angular-tutum/issues"
+    "url": "https://github.com/buggavep/angular_app/issues"
   },
-  "homepage": "https://github.com/dciccale/docker-angular-tutum",
+  "homepage": "https://github.com/buggavep/angular_app",
   "dependencies": {
     "compression": "^1.4.3",
     "errorhandler": "^1.3.5",
