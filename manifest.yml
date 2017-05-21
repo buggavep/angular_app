@@ -1,0 +1,5 @@
+---
+applications:
+- name: simple-app
+  disk: 256MB
+  memory: 2GB
