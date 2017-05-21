@@ -1,5 +1,5 @@
 {
-  "name": "docker-angular-tutum",
+  "name": "angular_app",
   "version": "1.0.0",
   "authors": [
     "Denis Ciccale (@tdecs)"
@@ -10,7 +10,7 @@
     "tutum"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/dciccale/docker-angular-tutum.git",
+  "homepage": "https://github.com/buggavep/angular_app.git",
   "ignore": [
     "**/.*",
     "node_modules",
